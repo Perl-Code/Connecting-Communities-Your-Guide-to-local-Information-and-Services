@@ -3,3 +3,5 @@
 ## Survery Results used [here](https://docs.google.com/forms/d/e/1FAIpQLScXJyx2111AtM0bcPUZMCR6snRnx9-kk0v4xdcqcPjPWhhqbg/viewform?usp=sharing).
 ## Mobile app Prototype Figma [Link](https://www.figma.com/design/3MnwCp91anYa5jMYmiJTcI/GovHack?node-id=75-2027&t=RcKxsLbQuuIlut5z-1). 
 ## Youtube Video [URL](https://youtu.be/jWCmP1c2wQU). 
+## Web Resouces used [here](https://nt.gov.au/).
+## Web Resouces used [here](https://ccnt.associationonline.com.au/mc-content/services-suppliers-manufacturers-directory/frequently-asked-questions).
